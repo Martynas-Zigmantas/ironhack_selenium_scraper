@@ -1,7 +1,7 @@
 <img src="https://bit.ly/2VnXWr2" alt="Ironhack Logo" width="100"/>
 
 # Berlin Brandenburg (BER) Airport Flight Information Web Scraper
-Martynas Zigmantas, Alexander Groenert & Goncalo Jardim
+### Martynas Zigmantas, Alexander Groenert & Goncalo Jardim
 
 *Ironhack, Data Analysis*
 
