@@ -7,10 +7,6 @@ Martynas Zigmantas, Alexander Groenert & Goncalo Jardim
 
 *This repository contains a directory for your data and a Jupiter Notebook with the code.*
 
-## Content
-- [Description](#description)
-- [Links](#links)
-
 <a name="description"></a>
 
 ## Description
