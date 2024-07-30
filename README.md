@@ -5,7 +5,9 @@ Martynas Zigmantas, Alexander Groenert & Goncalo Jardim
 
 *Ironhack, Data Analysis*
 
-*This repository contains a directory for your data and a Jupiter Notebook with the code.*
+*This repository contains a directory for your data and a Jupiter Notebook with the code. The folder "Href Links" is where you will save the url links for all the flights you want to scrape as a .txt file. The folder "Data" is where the final pandas data frames of the scraped flights will be saved as an excel file.*
+
+### The folders "Data" and "Href Links" already contain one arrival and one departure file for demonstration.
 
 <a name="description"></a>
 
